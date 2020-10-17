@@ -17,7 +17,7 @@ ratings data from MovieLens on Kaggle
 Wikipedia has a ton of information about movies, including budgets and box office returns, cast and crew, production and distribution, and so much more.
 [wikipedia-movies.json](https://2u-data-curriculum-team.s3.amazonaws.com/dataviz-online/module_8/wikipedia-movies.json) is a compilation of records pulled from wikipedia and formatted in json.
 
-[ETL_create_database.ipynb](https://github.com/faramarzamirshahi/Movies-ETL/blob/main/ETL_create_database.ipynb) step:<br>
+[ETL_create_database.ipynb](https://github.com/faramarzamirshahi/Movies-ETL/blob/main/ETL_create_database.ipynb) steps:<br>
 
 1- Select only the records from wikipedia-movies.json that have 'imdb_link' and ('Director' or 'Directed by') keys and 	not 'No. of episodes'<br>
 2- Combine titles in various languages into one single field<br>
