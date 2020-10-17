@@ -1,5 +1,9 @@
 # My ignores
 test.ipynb
+config.py
+tuesdayClass.ipynb
+PandasToPostgreSQL.ipynb
+tmp_dataframe.csv
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
